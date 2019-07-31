@@ -13,6 +13,9 @@ COMP9021 19T2
 ![assignment](https://raw.githubusercontent.com/uglyN0u/COMP9021_19T2/master/mmexport1563896565051.jpg)
 ![6](https://raw.githubusercontent.com/uglyN0u/COMP9021_19T2/master/mmexport1563896554293.jpg)
 
+## ** Quiz_7 ** 满分通过，测试结果及提交结果如下：
+![assignment](https://github.com/uglyN0u/COMP9021_19T2/blob/master/quiz7/quiz7_run.png?raw=true)
+![assignment](https://github.com/uglyN0u/COMP9021_19T2/blob/master/quiz7/quiz7.png?raw=true)
 
 均满分通过。
 **此课程有严格的防作弊检测，为了保障客户利益，不公布源代码。**
