@@ -5,7 +5,7 @@ COMP9021_19T2 的课程作业， 并没有连续做，将做了的记录。
 
 COMP9021 19T2
 
-Assignment 2:
+## 最新 **Assignment 2** 结果:
 
 ![assignment](https://github.com/uglyN0u/COMP9021_19T2/blob/master/Assignment2/a2-apart1.png)
 ![assignment](https://github.com/uglyN0u/COMP9021_19T2/blob/master/Assignment2/a2-apart2.png)
